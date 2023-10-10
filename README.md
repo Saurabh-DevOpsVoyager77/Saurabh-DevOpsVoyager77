@@ -31,4 +31,4 @@ Venturing into the blockchain frontier, I've explored the realms of:
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/Saurabh-DevOpsVoyager77). Let's build, innovate, and explore the future of tech!
 
-![DevOps Voyager] (https://github.com/Saurabh-DevOpsVoyager77)
+![DevOps Voyager](https://github.com/Saurabh-DevOpsVoyager77)
