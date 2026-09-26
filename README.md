@@ -1,80 +1,51 @@
-<div align="center">
+# Hey, I'm Saurabh 👋
 
-# SAURABH ADHAU
+**I build cloud infrastructure that deploys itself, scales itself, and lets everyone sleep at night.**
 
-### `DevOps Engineer` · `Cloud` · `Kubernetes` · `Infrastructure as Code` · `Observability`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2400&pause=850&color=58A6FF&center=true&vCenter=true&width=850&height=45&lines=Engineering+cloud-native+platforms.;Automating+infrastructure+with+code.;Shipping+software+through+Kubernetes.;Making+production+observable." alt="Animated engineering tagline" />
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,terraform,docker,jenkins,githubactions,prometheus,grafana,linux,python,bash&perline=12" alt="AWS Azure Kubernetes Terraform Docker Jenkins GitHub Actions Prometheus Grafana Linux Python Bash" />
-
-<br><br>
-
-<a href="https://github.com/Saurabh-DevOpsVoyager77">
-<img src="https://img.shields.io/badge/GitHub-Saurabh--DevOpsVoyager77-161B22?style=for-the-badge&logo=github" />
-</a>
-
-</div>
-
----
-
-<img src="./assets/live-pipeline.svg" width="100%" alt="Animated DevOps pipeline: Git to CI/CD to EKS to Terraform to Observability" />
-
----
-
-## `01` / ENGINEERING
-
-> **I engineer the platform behind the application.**
-
-Cloud infrastructure, Kubernetes platforms, Infrastructure as Code, CI/CD and observability — with a focus on systems that are **repeatable, scalable and easy to operate**.
-
-```text
-CLOUD          AWS / Azure / EKS / VPC / IAM
-INFRA          Terraform / Terragrunt
-CONTAINERS     Docker / ECR
-PLATFORM       Kubernetes / Helm
-DELIVERY       Jenkins / GitHub Actions
-OBSERVABILITY  Prometheus / Grafana / Loki / OpenTelemetry / Tempo
-AUTOMATION     Python / Bash / Linux
+```yaml
+apiVersion: v1
+kind: Engineer
+metadata:
+  name: saurabh-adhau
+  role: DevOps Engineer
+spec:
+  cloud: [AWS, Azure]
+  containers: [Docker, Kubernetes, Helm, EKS]
+  iac: [Terraform, Ansible]
+  ci_cd: [GitHub Actions, GitLab CI]
+  web: [Nginx, Apache]
+  side_quest: [Ethereum, Polygon, Cosmos nodes]
+status:
+  building: 3-tier app on EKS with autoscaling, monitoring and multi-region DR
+  learning: GitOps and Kubernetes security
+  open_to: DevOps / Cloud / SRE roles
 ```
 
----
+### 🧰 Tech Stack
 
-## `02` / SELECTED SYSTEMS
+| | |
+|---|---|
+| **☁️ Cloud** | <img src="https://skillicons.dev/icons?i=aws,azure" height="40" /> |
+| **🐳 Containers** | <img src="https://skillicons.dev/icons?i=docker,kubernetes" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" height="40" /> <img src="https://img.shields.io/badge/Amazon%20EKS-FF9900?style=for-the-badge&logo=kubernetes&logoColor=white" height="40" /> |
+| **🧱 IaC** | <img src="https://skillicons.dev/icons?i=terraform,ansible" height="40" /> |
+| **🔁 CI/CD** | <img src="https://skillicons.dev/icons?i=githubactions,gitlab" height="40" /> |
+| **🌐 Web** | <img src="https://skillicons.dev/icons?i=nginx" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" /> |
+| **⛓️ Side quest** | <img src="https://cdn.simpleicons.org/ethereum/627EEA" height="40" /> <img src="https://cdn.simpleicons.org/polygon" height="40" /> <img src="https://img.shields.io/badge/Cosmos-2E3148?style=for-the-badge" height="40" /> |
 
-### ☸️ Production-Style EKS Platform
-`AWS` `EKS` `Terraform` `Karpenter` `ALB` `Helm` `Prometheus` `Grafana` `Loki`
+### 🚀 Start here
 
-3-tier application platform with infrastructure automation, Kubernetes workloads and production-focused observability.
+- **[Multi-tenant EKS with Terraform](https://github.com/Saurabh-DevOpsVoyager77/AWS-EKS-cluster-for-multiple-customers-Cluster-using-Terraform-Modules)**: one set of Terraform modules, a separate EKS cluster for every customer.
+- **[Ansible → Docker → K8s → Helm](https://github.com/Saurabh-DevOpsVoyager77/ansible-driven-deployment-Docker_K8s_Helm)**: one command builds, ships and deploys.
+- **[React + Node.js on Kubernetes](https://github.com/Saurabh-DevOpsVoyager77/Deployment_with_K8s-React_NodeJs_Application)**: a full-stack app, containerised and running on K8s.
 
-### 🚀 Automated Delivery
-`GitHub Actions` `OIDC` `Docker` `ECR` `Kubernetes`
+### 💬 Ask me about
 
-Source → build → image → registry → deployment, with cloud authentication handled through OIDC.
+Terraform modules · EKS · Helm charts · Automating anything I have to do twice
 
-### 🔭 Full-Stack Observability
-`Prometheus` `Grafana` `Loki` `OpenTelemetry` `Tempo`
+📫 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) · [Email](mailto:YOUR-EMAIL)
 
-Metrics, logs and traces connected into one operational view.
-
----
-
-## `03` / CURRENTLY EXPLORING
-
-`GitOps` · `Argo CD` · `Platform Engineering` · `DevSecOps` · `SRE` · `Advanced Kubernetes`
-
----
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Saurabh-DevOpsVoyager77&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark" />
-
-<br>
-
-### `BUILD → AUTOMATE → DEPLOY → OBSERVE`
-
-<sub>Engineering the platform behind the product.</sub>
-
-</div>
+```bash
+$ kubectl get engineer saurabh
+NAME      STATUS   UPTIME   RESTARTS
+saurabh   Ready    24/7     0 (coffee-powered)
+```
