@@ -42,7 +42,7 @@ status:
 
 Terraform modules · EKS · Helm charts · Automating anything I have to do twice
 
-📫 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) · [Email](mailto:YOUR-EMAIL)
+📫 [LinkedIn](https://www.linkedin.com/in/er-100rabh/)
 
 ```bash
 $ kubectl get engineer saurabh
