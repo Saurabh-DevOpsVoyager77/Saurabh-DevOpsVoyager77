@@ -23,14 +23,53 @@ status:
 
 ### 🧰 Tech Stack
 
-| | |
-|---|---|
-| **☁️ Cloud** | <img src="https://skillicons.dev/icons?i=aws,azure" height="40" /> |
-| **🐳 Containers** | <img src="https://skillicons.dev/icons?i=docker,kubernetes" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" height="40" /> <img src="https://img.shields.io/badge/Amazon%20EKS-FF9900?style=for-the-badge&logo=kubernetes&logoColor=white" height="40" /> |
-| **🧱 IaC** | <img src="https://skillicons.dev/icons?i=terraform,ansible" height="40" /> |
-| **🔁 CI/CD** | <img src="https://skillicons.dev/icons?i=githubactions,gitlab" height="40" /> |
-| **🌐 Web** | <img src="https://skillicons.dev/icons?i=nginx" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" /> |
-| **⛓️ Side quest** | <img src="https://cdn.simpleicons.org/ethereum/627EEA" height="40" /> <img src="https://cdn.simpleicons.org/polygon" height="40" /> <img src="https://img.shields.io/badge/Cosmos-2E3148?style=for-the-badge" height="40" /> |
+<table>
+  <tr>
+    <td><b>☁️ Cloud</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=aws" width="40" alt="AWS" title="AWS" />
+      <img src="https://skillicons.dev/icons?i=azure" width="40" alt="Azure" title="Azure" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🐳 Containers</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker" width="40" alt="Docker" title="Docker" />
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="40" alt="Kubernetes" title="Kubernetes" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" width="40" alt="Helm" title="Helm" />
+      <img src="https://img.shields.io/badge/Amazon%20EKS-FF9900?style=flat-square&logo=kubernetes&logoColor=white" height="28" alt="Amazon EKS" title="Amazon EKS" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🧱 IaC</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=terraform" width="40" alt="Terraform" title="Terraform" />
+      <img src="https://skillicons.dev/icons?i=ansible" width="40" alt="Ansible" title="Ansible" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🔁 CI/CD</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=githubactions" width="40" alt="GitHub Actions" title="GitHub Actions" />
+      <img src="https://skillicons.dev/icons?i=gitlab" width="40" alt="GitLab CI" title="GitLab CI" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🌐 Web</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nginx" width="40" alt="Nginx" title="Nginx" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" alt="Apache" title="Apache" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>⛓️ Side quest</b></td>
+    <td>
+      <img src="https://cdn.simpleicons.org/ethereum/627EEA" width="40" alt="Ethereum" title="Ethereum" />
+      <img src="https://cdn.simpleicons.org/polygon" width="40" alt="Polygon" title="Polygon" />
+      <img src="https://img.shields.io/badge/Cosmos-2E3148?style=flat-square" height="28" alt="Cosmos" title="Cosmos" />
+    </td>
+  </tr>
+</table>
 
 ### 🚀 Start here
 
@@ -42,7 +81,9 @@ status:
 
 Terraform modules · EKS · Helm charts · Automating anything I have to do twice
 
-📫 [LinkedIn](https://www.linkedin.com/in/er-100rabh/)
+### 📫 Connect
+
+<a href="https://www.linkedin.com/in/er-100rabh/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 ```bash
 $ kubectl get engineer saurabh
