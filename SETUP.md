@@ -1,12 +1,27 @@
-# Saurabh GitHub Profile — V2
+# DevOps System Profile — Setup
 
-Replace the profile repository README with `README.md` and upload the `assets` folder.
+This package contains the animated dashboard and a profile README designed for the
+`Saurabh-DevOpsVoyager77` GitHub profile repository.
 
-Changes from V1:
-- Added Azure to the technology logo row.
-- Changed the tech icon row to exactly 12 icons to remove the visual gap.
-- Rebuilt the pipeline visual as a more premium animated dashboard with stage cards, animated data packets, telemetry pulses, status indicator, and richer labels.
-- Removed the streak widget because the previous image was rendering as a broken image.
-- Kept the README medium-length.
+## Files
 
-Commit both files/folder to the `main` branch.
+- `README.md` — profile README
+- `assets/devops-system.gif` — animated DevOps System dashboard
+- `devops-system-preview.png` — preview frame
+
+## Install
+
+Copy `README.md` and the `assets/` folder into:
+
+`Saurabh-DevOpsVoyager77/Saurabh-DevOpsVoyager77`
+
+Then commit and open your GitHub profile.
+
+GitHub profile READMEs support images and GIFs. The dashboard is deliberately built
+as a GIF because GitHub does not run inline SVG animation/scripts when rendering SVGs.
+
+## Design
+
+The visual language is an original DevOps interface inspired by futuristic game-system
+dashboards: dark panels, violet/cyan glow, XP progression, quests, skills and live-style
+telemetry. It does not use Solo Leveling character artwork.

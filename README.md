@@ -4,74 +4,40 @@
 
 ### `DevOps Engineer` · `Cloud` · `Kubernetes` · `Infrastructure as Code` · `Observability`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2400&pause=850&color=58A6FF&center=true&vCenter=true&width=850&height=45&lines=Engineering+cloud-native+platforms.;Automating+infrastructure+with+code.;Shipping+software+through+Kubernetes.;Making+production+observable." alt="Animated engineering tagline" />
-
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2400&pause=850&color=BB73FF&center=true&vCenter=true&width=850&height=45&lines=Engineering+cloud-native+platforms.;Automating+infrastructure+with+code.;Shipping+software+through+Kubernetes.;Making+production+observable." alt="Animated engineering tagline" />
 
 <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,terraform,docker,jenkins,githubactions,prometheus,grafana,linux,python,bash&perline=12" alt="AWS Azure Kubernetes Terraform Docker Jenkins GitHub Actions Prometheus Grafana Linux Python Bash" />
 
-<br><br>
-
-<a href="https://github.com/Saurabh-DevOpsVoyager77">
-<img src="https://img.shields.io/badge/GitHub-Saurabh--DevOpsVoyager77-161B22?style=for-the-badge&logo=github" />
-</a>
-
 </div>
 
----
+<img src="./assets/devops-system.gif" width="100%" alt="Animated DevOps System dashboard" />
 
-<img src="./assets/live-pipeline.svg" width="100%" alt="Animated DevOps pipeline: Git to CI/CD to EKS to Terraform to Observability" />
-
----
-
-## `01` / ENGINEERING
+## `SYSTEM PROFILE`
 
 > **I engineer the platform behind the application.**
 
-Cloud infrastructure, Kubernetes platforms, Infrastructure as Code, CI/CD and observability — with a focus on systems that are **repeatable, scalable and easy to operate**.
+| Attribute | Stack |
+|---|---|
+| ☁ Cloud | AWS · Azure · EKS · VPC · IAM |
+| 🏗 Infrastructure | Terraform · Terragrunt |
+| ☸ Platform | Kubernetes · Helm · EKS |
+| 🚀 Delivery | Jenkins · GitHub Actions · Docker · ECR |
+| 🔭 Observability | Prometheus · Grafana · Loki · OpenTelemetry · Tempo |
+| ⚙ Automation | Python · Bash · Linux |
 
-```text
-CLOUD          AWS / Azure / EKS / VPC / IAM
-INFRA          Terraform / Terragrunt
-CONTAINERS     Docker / ECR
-PLATFORM       Kubernetes / Helm
-DELIVERY       Jenkins / GitHub Actions
-OBSERVABILITY  Prometheus / Grafana / Loki / OpenTelemetry / Tempo
-AUTOMATION     Python / Bash / Linux
-```
+## `ACTIVE MISSIONS`
 
----
+- **Production-style EKS platform** — infrastructure, networking, workloads and deployment automation
+- **Automated delivery** — CI/CD from source control through container build and Kubernetes deployment
+- **Full-stack observability** — metrics, logs and traces across cloud-native workloads
 
-## `02` / SELECTED SYSTEMS
-
-### ☸️ Production-Style EKS Platform
-`AWS` `EKS` `Terraform` `Karpenter` `ALB` `Helm` `Prometheus` `Grafana` `Loki`
-
-3-tier application platform with infrastructure automation, Kubernetes workloads and production-focused observability.
-
-### 🚀 Automated Delivery
-`GitHub Actions` `OIDC` `Docker` `ECR` `Kubernetes`
-
-Source → build → image → registry → deployment, with cloud authentication handled through OIDC.
-
-### 🔭 Full-Stack Observability
-`Prometheus` `Grafana` `Loki` `OpenTelemetry` `Tempo`
-
-Metrics, logs and traces connected into one operational view.
-
----
-
-## `03` / CURRENTLY EXPLORING
+## `CURRENT QUEST`
 
 `GitOps` · `Argo CD` · `Platform Engineering` · `DevSecOps` · `SRE` · `Advanced Kubernetes`
 
 ---
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Saurabh-DevOpsVoyager77&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark" />
-
-<br>
 
 ### `BUILD → AUTOMATE → DEPLOY → OBSERVE`
 
