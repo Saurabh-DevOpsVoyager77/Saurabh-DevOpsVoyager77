@@ -12,13 +12,15 @@ spec:
   cloud: [AWS, Azure]
   containers: [Docker, Kubernetes, Helm, EKS]
   iac: [Terraform, Ansible]
-  ci_cd: [GitHub Actions, GitLab CI]
+  ci_cd: [GitHub Actions, GitLab CI, Jenkins, Bitbucket]
+  scripting: [Bash, Python]
+  monitoring_tools: [Prometheus, grafana, alloy, ELK, opentelemetry, jaeger, fleuntbit, filebeat, tempo]
   web: [Nginx, Apache]
-  side_quest: [Ethereum, Polygon, Cosmos nodes]
+  side_quest: [Karpenter, Ethereum, Polygon, Cosmos nodes]
 status:
   building: 3-tier app on EKS with autoscaling, monitoring and multi-region DR
-  learning: GitOps and Kubernetes security
-  open_to: DevOps / Cloud / SRE roles
+  learning: Large Language Model, Machine Learning, RAG, Vector DB, Natural Language Processing, Deep Learning, Gen AI
+  open_to: DevOps / Cloud / SRE / Kubernetes Administrator / AI DevOps Engineer roles
 ```
 
 ### 🧰 Tech Stack
