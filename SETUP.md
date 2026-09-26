@@ -1,10 +1,12 @@
-# Setup
+# Saurabh GitHub Profile — V2
 
-1. Replace the existing README.md in your profile repository with the included README.md.
-2. Upload the `assets/` folder to the root of the profile repository.
-3. Commit both files to the `main` branch.
-4. GitHub will render the animated SVG and the typing animation automatically.
+Replace the profile repository README with `README.md` and upload the `assets` folder.
 
-The animated pipeline is a visual representation of your engineering flow; it does not claim that your real infrastructure is currently online.
+Changes from V1:
+- Added Azure to the technology logo row.
+- Changed the tech icon row to exactly 12 icons to remove the visual gap.
+- Rebuilt the pipeline visual as a more premium animated dashboard with stage cards, animated data packets, telemetry pulses, status indicator, and richer labels.
+- Removed the streak widget because the previous image was rendering as a broken image.
+- Kept the README medium-length.
 
-If you want actual live deployment status later, connect a GitHub Actions workflow to publish a status SVG based on real workflow/deployment results.
+Commit both files/folder to the `main` branch.
