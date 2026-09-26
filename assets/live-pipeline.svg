@@ -1,0 +1,58 @@
+<svg width="900" height="260" viewBox="0 0 900 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="900" y2="0">
+    <stop stop-color="#58A6FF"/>
+    <stop offset="0.5" stop-color="#A371F7"/>
+    <stop offset="1" stop-color="#3FB950"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+
+<rect x="1" y="1" width="898" height="258" rx="18" fill="#0D1117" stroke="#30363D"/>
+<text x="34" y="38" fill="#8B949E" font-family="monospace" font-size="13">SAURABH@CLOUD / DEVOPS CONTROL PLANE</text>
+<circle cx="850" cy="33" r="5" fill="#3FB950">
+  <animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/>
+</circle>
+<text x="862" y="38" fill="#3FB950" font-family="monospace" font-size="12">ACTIVE</text>
+
+<line x1="82" y1="128" x2="818" y2="128" stroke="#30363D" stroke-width="3"/>
+<line x1="82" y1="128" x2="818" y2="128" stroke="url(#g)" stroke-width="2" stroke-dasharray="12 18">
+  <animate attributeName="stroke-dashoffset" from="0" to="-60" dur="1.5s" repeatCount="indefinite"/>
+</line>
+
+<g font-family="Arial, sans-serif" text-anchor="middle">
+  <g>
+    <circle cx="100" cy="128" r="24" fill="#161B22" stroke="#58A6FF" stroke-width="2"/>
+    <text x="100" y="133" fill="#58A6FF" font-size="11">GIT</text>
+    <text x="100" y="175" fill="#C9D1D9" font-size="12">SOURCE</text>
+  </g>
+  <g>
+    <circle cx="275" cy="128" r="24" fill="#161B22" stroke="#A371F7" stroke-width="2"/>
+    <text x="275" y="133" fill="#A371F7" font-size="10">CI/CD</text>
+    <text x="275" y="175" fill="#C9D1D9" font-size="12">DELIVERY</text>
+  </g>
+  <g>
+    <circle cx="450" cy="128" r="24" fill="#161B22" stroke="#58A6FF" stroke-width="2"/>
+    <text x="450" y="133" fill="#58A6FF" font-size="10">EKS</text>
+    <text x="450" y="175" fill="#C9D1D9" font-size="12">PLATFORM</text>
+  </g>
+  <g>
+    <circle cx="625" cy="128" r="24" fill="#161B22" stroke="#F0883E" stroke-width="2"/>
+    <text x="625" y="133" fill="#F0883E" font-size="10">IaC</text>
+    <text x="625" y="175" fill="#C9D1D9" font-size="12">TERRAFORM</text>
+  </g>
+  <g>
+    <circle cx="800" cy="128" r="24" fill="#161B22" stroke="#3FB950" stroke-width="2"/>
+    <text x="800" y="133" fill="#3FB950" font-size="10">OBS</text>
+    <text x="800" y="175" fill="#C9D1D9" font-size="12">SIGNALS</text>
+  </g>
+</g>
+
+<circle r="5" fill="#FFFFFF" filter="url(#glow)">
+  <animateMotion dur="4s" repeatCount="indefinite" path="M100 128 L275 128 L450 128 L625 128 L800 128"/>
+</circle>
+
+<text x="450" y="225" fill="#8B949E" font-family="monospace" font-size="12" text-anchor="middle">
+  BUILD  →  SHIP  →  RUN  →  SCALE  →  OBSERVE
+</text>
+</svg>
