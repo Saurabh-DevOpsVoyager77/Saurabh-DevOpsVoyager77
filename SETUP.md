@@ -1,33 +1,10 @@
-# Saurabh DevOps System V2
+# Setup
 
-## Files
+1. Replace the existing README.md in your profile repository with the included README.md.
+2. Upload the `assets/` folder to the root of the profile repository.
+3. Commit both files to the `main` branch.
+4. GitHub will render the animated SVG and the typing animation automatically.
 
-- `README.md` — complete GitHub profile README
-- `assets/devops-system-v2.gif` — animated futuristic DevOps System dashboard
-- `devops-system-v2-preview.png` — preview frame
+The animated pipeline is a visual representation of your engineering flow; it does not claim that your real infrastructure is currently online.
 
-## Install
-
-Copy these into the profile repository:
-
-`Saurabh-DevOpsVoyager77/Saurabh-DevOpsVoyager77`
-
-```text
-README.md
-assets/
-└── devops-system-v2.gif
-```
-
-Commit and push.
-
-## Why GIF?
-
-The dashboard uses a GIF for the animation layer so GitHub can render the animation directly in the profile README.
-
-The dashboard is an original DevOps/game-system UI inspired by futuristic RPG dashboards. It does not use Solo Leveling character artwork.
-
-## Important
-
-The dashboard's telemetry is intentionally presented as a visual simulation, not as a claim that these values are connected to a production cluster.
-
-For truly live data, the next version can connect GitHub Actions / project status / deployment metadata to generated dashboard frames.
+If you want actual live deployment status later, connect a GitHub Actions workflow to publish a status SVG based on real workflow/deployment results.
