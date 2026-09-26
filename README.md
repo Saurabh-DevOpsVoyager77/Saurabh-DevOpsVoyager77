@@ -1,46 +1,79 @@
 <div align="center">
 
-# SAURABH ADHAU
+# ⚡ SAURABH ADHAU
 
-### `DevOps Engineer` · `Cloud` · `Kubernetes` · `Infrastructure as Code` · `Observability`
+### `DEVOPS ENGINEER` · `CLOUD` · `KUBERNETES` · `IaC` · `OBSERVABILITY`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2400&pause=850&color=BB73FF&center=true&vCenter=true&width=850&height=45&lines=Engineering+cloud-native+platforms.;Automating+infrastructure+with+code.;Shipping+software+through+Kubernetes.;Making+production+observable." alt="Animated engineering tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2200&pause=650&color=BB73FF&center=true&vCenter=true&width=900&height=40&lines=SYSTEM+ONLINE.;BUILDING+CLOUD-NATIVE+PLATFORMS.;AUTOMATING+INFRASTRUCTURE+WITH+CODE.;SHIPPING+THROUGH+KUBERNETES.;MAKING+PRODUCTION+OBSERVABLE." alt="Animated DevOps system messages" />
 
-<img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,terraform,docker,jenkins,githubactions,prometheus,grafana,linux,python,bash&perline=12" alt="AWS Azure Kubernetes Terraform Docker Jenkins GitHub Actions Prometheus Grafana Linux Python Bash" />
+<img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,terraform,docker,jenkins,githubactions,prometheus,grafana,loki,opentelemetry,linux,python,bash&perline=14" alt="DevOps technology stack" />
 
 </div>
 
-<img src="./assets/devops-system.gif" width="100%" alt="Animated DevOps System dashboard" />
+<p align="center">
+<img src="./assets/devops-system-v2.gif" width="100%" alt="Saurabh DevOps System animated dashboard" />
+</p>
 
-## `SYSTEM PROFILE`
+---
 
-> **I engineer the platform behind the application.**
+## ⚡ `SYSTEM PROFILE`
 
-| Attribute | Stack |
+```text
+PLAYER        SAURABH ADHAU
+CLASS         DEVOPS ENGINEER
+SPECIALTY     CLOUD • KUBERNETES • IaC • CI/CD • OBSERVABILITY
+MISSION       ENGINEER THE PLATFORM BEHIND THE PRODUCT
+MODE          AUTOMATE → DEPLOY → OBSERVE → IMPROVE
+```
+
+> I build and automate cloud-native platforms with a strong focus on Kubernetes, infrastructure as code, CI/CD and production observability.
+
+### `TECH ARSENAL`
+
+| SYSTEM | TECHNOLOGIES |
 |---|---|
-| ☁ Cloud | AWS · Azure · EKS · VPC · IAM |
-| 🏗 Infrastructure | Terraform · Terragrunt |
-| ☸ Platform | Kubernetes · Helm · EKS |
-| 🚀 Delivery | Jenkins · GitHub Actions · Docker · ECR |
-| 🔭 Observability | Prometheus · Grafana · Loki · OpenTelemetry · Tempo |
-| ⚙ Automation | Python · Bash · Linux |
+| ☁ CLOUD | AWS · Azure · EKS · VPC · IAM · RDS |
+| 🏗 IaC | Terraform · Terragrunt |
+| ☸ PLATFORM | Kubernetes · Helm · Docker · ECR |
+| 🚀 DELIVERY | Jenkins · GitHub Actions · CI/CD |
+| 🔭 OBSERVABILITY | Prometheus · Grafana · Loki · OpenTelemetry · Tempo |
+| ⚙ AUTOMATION | Python · Bash · Linux |
+
+---
 
 ## `ACTIVE MISSIONS`
 
-- **Production-style EKS platform** — infrastructure, networking, workloads and deployment automation
-- **Automated delivery** — CI/CD from source control through container build and Kubernetes deployment
-- **Full-stack observability** — metrics, logs and traces across cloud-native workloads
+### ☸ `EKS PLATFORM`
+Production-style Kubernetes platform with cloud networking, infrastructure automation, containerized workloads and deployment workflows.
+
+### 🚀 `AUTOMATED DELIVERY`
+Source → build → image → registry → Kubernetes deployment, with repeatable CI/CD automation.
+
+### 🔭 `OBSERVABILITY SYSTEM`
+Metrics + logs + traces using Prometheus, Grafana, Loki, OpenTelemetry and Tempo across cloud-native workloads.
+
+---
 
 ## `CURRENT QUEST`
 
-`GitOps` · `Argo CD` · `Platform Engineering` · `DevSecOps` · `SRE` · `Advanced Kubernetes`
+```text
+[ IN PROGRESS ]  GitOps
+[ IN PROGRESS ]  Advanced Kubernetes
+[ IN PROGRESS ]  Platform Engineering
+[  NEXT        ]  DevSecOps
+[  NEXT        ]  SRE / Reliability Engineering
+```
 
 ---
 
 <div align="center">
 
-### `BUILD → AUTOMATE → DEPLOY → OBSERVE`
+### `BUILD → SHIP → RUN → SCALE → OBSERVE`
 
 <sub>Engineering the platform behind the product.</sub>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Saurabh-DevOpsVoyager77&style=for-the-badge&color=6f42c1&label=SYSTEM+VISITS" alt="Profile views" />
 
 </div>

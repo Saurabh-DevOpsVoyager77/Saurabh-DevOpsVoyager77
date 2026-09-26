@@ -1,27 +1,33 @@
-# DevOps System Profile — Setup
-
-This package contains the animated dashboard and a profile README designed for the
-`Saurabh-DevOpsVoyager77` GitHub profile repository.
+# Saurabh DevOps System V2
 
 ## Files
 
-- `README.md` — profile README
-- `assets/devops-system.gif` — animated DevOps System dashboard
-- `devops-system-preview.png` — preview frame
+- `README.md` — complete GitHub profile README
+- `assets/devops-system-v2.gif` — animated futuristic DevOps System dashboard
+- `devops-system-v2-preview.png` — preview frame
 
 ## Install
 
-Copy `README.md` and the `assets/` folder into:
+Copy these into the profile repository:
 
 `Saurabh-DevOpsVoyager77/Saurabh-DevOpsVoyager77`
 
-Then commit and open your GitHub profile.
+```text
+README.md
+assets/
+└── devops-system-v2.gif
+```
 
-GitHub profile READMEs support images and GIFs. The dashboard is deliberately built
-as a GIF because GitHub does not run inline SVG animation/scripts when rendering SVGs.
+Commit and push.
 
-## Design
+## Why GIF?
 
-The visual language is an original DevOps interface inspired by futuristic game-system
-dashboards: dark panels, violet/cyan glow, XP progression, quests, skills and live-style
-telemetry. It does not use Solo Leveling character artwork.
+The dashboard uses a GIF for the animation layer so GitHub can render the animation directly in the profile README.
+
+The dashboard is an original DevOps/game-system UI inspired by futuristic RPG dashboards. It does not use Solo Leveling character artwork.
+
+## Important
+
+The dashboard's telemetry is intentionally presented as a visual simulation, not as a claim that these values are connected to a production cluster.
+
+For truly live data, the next version can connect GitHub Actions / project status / deployment metadata to generated dashboard frames.
